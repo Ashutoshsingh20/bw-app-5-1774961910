@@ -1,7 +1,7 @@
 {
   "name": "bw-app-5-1774961910",
   "version": "1.0.0",
-  "description": "Nova Arcade monochrome ops dashboard",
+  "description": "Void Meridian monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
